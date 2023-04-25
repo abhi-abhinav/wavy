@@ -4,16 +4,17 @@ const icGoogleLogo = "assets/icons/google_logo.png";
 const icTwitterLogo = "assets/icons/twitter_logo.png";
 
 // Slider images
-const imgSlider1 = "assets/images/slider_1.png";
-const imgSlider2 = "assets/images/slider_2.png";
-const imgSlider3 = "assets/images/slider_3.png";
-const imgSlider4 = "assets/images/slider_4.png";
+const imgSlider1 = "assets/images/1.webp";
+const imgSlider2 = "assets/images/2.webp";
+const imgSlider3 = "assets/images/3.webp";
+const imgSlider4 = "assets/images/4.webp";
 
 // Second slider
-const imgSs1 = "assets/images/ss1.jpg";
-const imgSs2 = "assets/images/ss2.jpg";
-const imgSs3 = "assets/images/ss3.jpg";
-const imgSs4 = "assets/images/ss4.jpg";
+const imgSs1 = "assets/images/5.webp";
+const imgSs2 = "assets/images/6.webp";
+const imgSs3 = "assets/images/7.webp";
+const imgSs4 = "assets/images/8.webp";
+
 
 // Buttons
 const icTodaysDeal = "assets/icons/todays_deal.png";
