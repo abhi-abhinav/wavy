@@ -8,3 +8,4 @@ export 'package:get/get.dart';
 export 'package:flutter/widgets.dart';
 export 'package:flutter/material.dart';
 export 'package:flutter_animate/flutter_animate.dart';
+export 'firebase_consts.dart';
