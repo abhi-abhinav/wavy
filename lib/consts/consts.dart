@@ -5,3 +5,6 @@ export './styles.dart';
 export 'package:velocity_x/velocity_x.dart';
 export 'package:get/get_core/src/get_main.dart';
 export 'package:get/get.dart';
+export 'package:flutter/widgets.dart';
+export 'package:flutter/material.dart';
+export 'package:flutter_animate/flutter_animate.dart';
